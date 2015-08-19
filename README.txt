@@ -3,8 +3,8 @@ Contributors: Hinjiriyo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SBF76TCGTRNX2
 Tags: mobile, zoom, zooming, scaling, viewport, metatag, smarthphones, meta tag, meta
 Requires at least: 1.2.0
-Tested up to: 4.1
-Stable tag: 1.0.2
+Tested up to: 4.3
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,8 +75,10 @@ for [support](http://wordpress.org/support/plugin/definitely-allow-mobile-zoomin
 3. Upload the `definitely-allow-mobile-zooming` directory to the `/wp-content/plugins/` directory
 4. Activate the plugin in the Plugin dashboard
 
-
 == Changelog ==
+
+= 1.0.3 =
+Successfully tested with WordPress 4.3
 
 = 1.0.2 =
 Successfully tested with WordPress 4.1
@@ -88,6 +90,9 @@ Successfully tested with WordPress 4.0
 * First release. I hope it works with your website.
 
 == Upgrade Notice ==
+
+= 1.0.3 =
+Successfully tested with WordPress 4.3
 
 = 1.0.2 =
 Successfully tested with WordPress 4.1

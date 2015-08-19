@@ -11,7 +11,7 @@
  * Plugin Name:       Definitely allow mobile zooming
  * Plugin URI:        http://wordpress.org/plugins/definitely-allow-mobile-zooming/
  * Description:       This tiny plugin adds the viewport meta tag with zooming permission to give your users the ability to zoom in your website with mobile browsers.
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            Martin Stehle
  * Author URI:        http://stehle-internet.de/
  * License:           GPL-2.0+
